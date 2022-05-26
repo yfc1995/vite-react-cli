@@ -1,0 +1,30 @@
+{
+  "name": "dtxy-cli",
+  "version": "1.0.2",
+  "description": "a project inclueds react react-router redux antd",
+  "main": "index.js",
+  "bin": {
+    "dtxy-cli": "bin/cli.js"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cli"
+  ],
+  "author": "xinyuan",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "commander": "^9.2.0",
+    "ejs": "^3.1.8",
+    "figlet": "^1.5.2",
+    "fs-extra": "^10.1.0",
+    "inquirer": "^8.2.4",
+    "ora": "^5.4.1",
+    "execa": "^5.1.1"
+  }
+}
