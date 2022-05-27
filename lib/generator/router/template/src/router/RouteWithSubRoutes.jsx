@@ -12,7 +12,7 @@ function isAuth(route) {
 }
 
 
-const RouteWithSubRoutes = ({ routes }) => {
+const RouteWithSubRoutes = ({ routes, children }) => {
   const fun = (routes) => {
     let list = []
     routes.forEach((route) => {
@@ -31,7 +31,9 @@ const RouteWithSubRoutes = ({ routes }) => {
   }
   let arr = fun(routes)
   return <Router>
-
+    {
+      children ? children : null
+    }
     <Routes>
       {arr}
     </Routes>

@@ -13,7 +13,10 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "cli"
+    "cli",
+    "react",
+    "redux",
+    "antd"
   ],
   "author": "xinyuan",
   "license": "ISC",
@@ -26,5 +29,10 @@
     "inquirer": "^8.2.4",
     "ora": "^5.4.1",
     "execa": "^5.1.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:yfc1995/xy-cli.git"
   }
+  
 }
