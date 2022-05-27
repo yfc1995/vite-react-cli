@@ -1,6 +1,6 @@
 {
   "name": "dtxy-cli",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "a project inclueds react react-router redux antd",
   "main": "index.js",
   "bin": {
