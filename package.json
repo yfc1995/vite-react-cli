@@ -1,6 +1,6 @@
 {
   "name": "dtxy-cli",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "a project inclueds react react-router redux antd",
   "main": "index.js",
   "bin": {
@@ -34,5 +34,4 @@
     "type": "git",
     "url": "git@github.com:yfc1995/xy-cli.git"
   }
-  
 }
