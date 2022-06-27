@@ -1,4 +1,4 @@
-# pnpm vite react react-router-dom redux eslint husky lint-staged jest antd-mobile
+# pnpm vite react react-router-dom redux eslint husky lint-staged jest antd-mobile/antd
 
 ### 介绍
  pnpm vite react 脚手架
