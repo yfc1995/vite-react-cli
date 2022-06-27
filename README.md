@@ -1,9 +1,7 @@
 # pnpm vite react react-router-dom redux eslint husky lint-staged jest antd-mobile
 
 ### 介绍
-
-使用 vite 搭建的 react 移动端项目，UI 框架 antd-mobile，里面配置好了路有权限以及嵌套结构
-使用 eslint husky lint-staged 保证代码质量，简单的配置了些别名，代理配置
+ pnpm vite react 脚手架
 
 
 ### 简单过程
