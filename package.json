@@ -1,6 +1,6 @@
 {
   "name": "dtxy-vite-react-cli",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "a project inclueds vite react react-router redux antd eslint husky ",
   "main": "index.js",
   "bin": {
