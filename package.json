@@ -1,10 +1,10 @@
 {
-  "name": "dtxy-cli",
-  "version": "2.0.1",
-  "description": "a project inclueds react react-router redux antd",
+  "name": "dtxy-vite-react-cli",
+  "version": "1.0.0",
+  "description": "a project inclueds vite react react-router redux antd eslint husky ",
   "main": "index.js",
   "bin": {
-    "dtxy-cli": "bin/cli.js"
+    "dtxy-vite-react-cli": "bin/cli.js"
   },
   "directories": {
     "lib": "lib"
@@ -24,14 +24,17 @@
     "chalk": "^4.1.2",
     "commander": "^9.2.0",
     "ejs": "^3.1.8",
+    "execa": "^5.1.1",
     "figlet": "^1.5.2",
     "fs-extra": "^10.1.0",
     "inquirer": "^8.2.4",
-    "ora": "^5.4.1",
-    "execa": "^5.1.1"
+    "ora": "^5.4.1"
   },
   "repository": {
     "type": "git",
     "url": "git@github.com:yfc1995/xy-cli.git"
+  },
+  "devDependencies": {
+    "mddir": "^1.1.1"
   }
 }
